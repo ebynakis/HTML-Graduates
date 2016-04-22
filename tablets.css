@@ -1,0 +1,21 @@
+@media screen and (max-width: 768px) and (min-width: 426px) {
+	#sectiune {
+		width: calc(100% - 5px);
+		margin: 0;
+	}
+
+	div > input:nth-of-type(2) {
+		margin: 0;
+		margin-bottom: 10px;
+
+	}
+
+	div > input {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+
+	#submitDiv > input {
+		width: 100%;
+	}
+}
