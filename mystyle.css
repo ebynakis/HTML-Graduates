@@ -131,33 +131,3 @@ nav  > * {
 	padding-bottom: 10px;
 	padding-top: 10px;
 }
-
-
-::-webkit-input-placeholder { /* WebKit browsers */
-
-    position: absolute; top: 0; left: 0;
-    position:0 0;
-    height: 100px;
-    width:400px;
-}
-:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
-
-    position: absolute; top: 0; left: 0;
-    position:0 0;
-    height: 100px;
-    width:400px;
-}
-::-moz-placeholder { /* Mozilla Firefox 19+ */
-
-    position: absolute; top: 0; left: 0;
-    position:0 0;
-    height: 100px;
-    width:400px;
-}
-:-ms-input-placeholder { /* Internet Explorer 10+ */
-
-    position: absolute; top: 0; left: 0;
-    position:0 0;
-    height: 100px;
-    width:400px;
-}
